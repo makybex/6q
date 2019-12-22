@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'MgOpenModata';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MgOpenModata Regular'), url('./mgopen.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MgOpenModata Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MgOpenModata Bold'), url('./mgopen-bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MyriadPro Regula';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro Regula'), url('./MyriadPro/MyriadPro-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MyriadPro LightIt';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro LightIt'), url('./MyriadPro/MyriadPro-LightIt.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'MyriadPro Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('MyriadPro Bold'), url('./MyriadPro/MyriadPro-Bold.woff') format('woff');
+}
